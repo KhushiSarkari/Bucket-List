@@ -5,7 +5,7 @@ const {
   readData,
   updateData,
   deleteData,
-} = require('../controllers/user_controller');
+} = require('../controllers/item_controller');
 
 const router = express.Router();
 
